@@ -10,6 +10,7 @@ int main() {
     int sum = x + y;
 
     std::cout << x; 
+    
 
     //Double (Number including decimal)
     double price = 10.99;
